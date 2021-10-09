@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherUpdate</string>
+    <string name="weather_update" />
+    <string name="get" />
+    <string name="feels_like">Feel Like</string>
+    <string name="today">Today</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="uv_index">Uv_Index</string>
+    <string name="weather_forecast">Weather Forecast</string>
+</resources>
